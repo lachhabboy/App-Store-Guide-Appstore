@@ -1,0 +1,42 @@
+[{
+		"name": "Obtenir des apps et des extensions Safari",
+		"description": "Découvrez des apps qui seront source d’inspiration pour la réalisation de films, la modification de photos ou la conception graphique. Ou trouvez des articles approfondis à propos des meilleures apps Mac. Avec les extensions Safari, vous pouvez adapter votre navigation à votre convenance.",
+		"img": "https://help.apple.com/assets/61526D294497E67D223AAA28/61526D2A4497E67D223AAA2F/fr_FR/ea6a52ab965fe0042c85980535fe4d79.png"
+	},{
+		"name": "Télécharger et jouer aux jeux Apple Arcade",
+		"description": "Aimez-vous jouer aux jeux vidéo ? Découvrez Apple Arcade, le service qui vous permet de rechercher, télécharger et jouer à de nombreux jeux disponibles dans l’App Store.",
+		"img": "https://help.apple.com/assets/61526D294497E67D223AAA28/61526D2A4497E67D223AAA2F/fr_FR/1730ecd70e45e0391e940c819cd7c02f.png"
+	}, {
+		"name": "Protéger les données personnelles",
+		"description": "Avant d’installer une app, vérifiez comment elle gère vos données. Utilise-t-elle votre position, collecte-t-elle votre historique de navigation ou suit-elle vos informations financières ? Consultez un instantané facile à comprendre de l’engagement de confidentialité d’une app, pour vérifier que les idées du développeur en matière de confidentialité vous correspondent.",
+		"img": "https://help.apple.com/assets/61526D294497E67D223AAA28/61526D2A4497E67D223AAA2F/fr_FR/bc60c3f50ab968cf78520d2f6b76ec23.png"
+	}, {
+		"name": "Apple Product Images",
+		"description": "Use Apple-provided product bezels in all your marketing materials to display your app on the Apple devices it supports. Always use the latest-generation devices for which your app is currently developed.",
+		"img": "https://developer.apple.com/app-store/marketing/guidelines/images/Marketing-Imagery-Apple-Product-Images_2x.png"
+	}, {
+		"name": "Premiers pas",
+		"description": "Configurez quelques fonctionnalités de base avant de commencer à utiliser votre nouvel iPhone.",
+		"img": "https://help.apple.com/assets/625460ED521B2511EE32CF0E/625460F4521B2511EE32CF50/fr_FR/9fd98f14f3264f4563890ce48a7a44dc.png"
+	},{
+		"name": "Ajouter sa touche personnelle",
+		"description": "Vous pouvez adapter votre iPhone à votre style personnel et à vos préférences. Affichez vos photos préférées sur l’écran verrouillé, ajoutez des widgets à l’écran d’accueil, ajustez la taille du texte, définissez des sonneries, et bien plus encore.",
+		"img": "https://help.apple.com/assets/625460ED521B2511EE32CF0E/625460F4521B2511EE32CF50/fr_FR/4c257bfa4f8a7c37658f11050c4d5a5d.png"
+	}, {
+		"name": "Prendre des clichés d’exception",
+		"description": "Utilisez votre iPhone pour immortalisez des moments importants, où que vous soyez. Découvrez comment prendre des photos et des vidéos à la volée, et comment utiliser les autres fonctionnalités de l’appareil photo de l’iPhone.",
+		"img": "https://help.apple.com/assets/625460ED521B2511EE32CF0E/625460F4521B2511EE32CF50/fr_FR/325683561b8cfca2a78f70b1aa5dab7d.png"
+	}, {
+		"name": "Rester connecté",
+		"description": "Grâce à l’iPhone, vous pouvez facilement rester en contact avec vos proches. Ajoutez les personnes importantes à vos yeux à vos contacts, afin de pouvoir accéder à leurs coordonnées dès que vous en avez besoin, et prenez des nouvelles via des messages texte, des appels téléphoniques ou des appels FaceTime.",
+		"img": "https://help.apple.com/assets/625460ED521B2511EE32CF0E/625460F4521B2511EE32CF50/fr_FR/e81a82ce47656958146d5256233a6849.png"
+	}, {
+		"name": "Profiter des fonctionnalités familiales",
+		"description": "Les membres de votre famille et vous-même pouvez le partage familial pour partager des achats effectués dans des apps, votre position ou encore des données de santé. Vous avez également la possibilité de configurer le contrôle parental, afin de gérer le temps que vos enfants passent sur leurs appareils.",
+		"img": "https://help.apple.com/assets/625460ED521B2511EE32CF0E/625460F4521B2511EE32CF50/fr_FR/9b1a791f7cdc3c167746859e9c32605f.png"
+	}, {
+		"name": "Simplifier sa journée",
+		"description": "Découvrez comment utiliser les apps sur votre iPhone pour vous rendre aux endroits que vous fréquentez le plus souvent, payer votre café matinal, vous rappeler de certaines tâches importantes, et même verrouiller automatiquement votre porte d’entrée lorsque vous quittez votre domicile.",
+		"img": "https://help.apple.com/assets/625460ED521B2511EE32CF0E/625460F4521B2511EE32CF50/fr_FR/b78c0d6c0a68048c62c3834e07589df8.png"
+	}
+]
